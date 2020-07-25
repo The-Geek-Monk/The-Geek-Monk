@@ -3,19 +3,19 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/vasu-sehgal-a28085144/">
-  <img align="left" alt="Vasu Sehgal's LinkdeIN" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Vasu Sehgal's LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/thegeekmonk">
-  <img align="left" alt="Vasu Sehgal's Telegram" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Vasu Sehgal's Telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/the_vasusehgal/">
-  <img align="left" alt="Vasu Sehgal's Instagram" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Vasu Sehgal's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCf0tk1ZU6QX3waEJqxHhHOA?v">
-  <img align="left" alt="Vasu Sehgal's Youtube" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
+  <img align="left" alt="Vasu Sehgal's Youtube" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
 </a>
 <a href="https://www.facebook.com/vasu.sehgal.75">
-  <img align="left" alt="Vasu Sehgal's Facebook" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
+  <img align="left" alt="Vasu Sehgal's Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
 </a>
 <br/>
 <br/>
@@ -30,7 +30,7 @@ Hi, I'm Vasu Sehgal, a Graphic Designer | A YouTuber | Front-End Web Developer |
 - 🌱 I’m currently learning Front-End Web Development and Designing 🚀; 
 - 👯 I’m looking to collaborate on Web-Development Projects (https://github.com/The-Geek-Monk) 🤝;
 - 💬 Ask me about anything, I am happy to help 😎;
-- ⚡️ Fun-Fact: I am an Actor 🎭 and a Dancer 💃 who can Code 💻.
+- ⚡️ Fun-Fact: I am an Actor 🎭 and a Dancer 💃 who can Code 💻;
 - 📫 How to reach me: vasusehgal.mca19.du@gmail.com 📧;
 
 **Languages and Tools:**  
