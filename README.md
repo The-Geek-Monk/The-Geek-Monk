@@ -20,7 +20,7 @@
 <br/>
 <br/>
 
-Hi, I'm Vasu Sehgal, a Graphic Designer | A YouTuber | Front-End WebDeveloper | Artist 🚀 from India. Currently, I'm pursuing Master of Computer Applications 🎓 from Department of Computer Science, University of Delhi 🏛. I'm a Quick Learner and a Technology Enthusiast 💡. Beside's programming, I really enjoy playing sports 🏈 and traveling ⛰️.
+Hi, I'm Vasu Sehgal, a Graphic Designer | A YouTuber | Front-End Web Developer | Artist 🚀 from India. Currently, I'm pursuing Master of Computer Applications 🎓 from Department of Computer Science, University of Delhi 🏛. I'm a Quick Learner and a Technology Enthusiast 💡. Beside's programming, I really enjoy playing sports 🏈 and traveling ⛰️.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
