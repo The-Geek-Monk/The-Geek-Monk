@@ -17,8 +17,8 @@
 <a href="https://www.facebook.com/vasu.sehgal.75">
   <img align="left" alt="Vasu Sehgal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
 </a>
-
-<br />
+<br/>
+<br/>
 
 Hi, I'm Vasu Sehgal, a Graphic Designer | A YouTuber | Front-End WebDeveloper | Artist 🚀 from India. Currently, I'm pursuing Master of Computer Applications 🎓 from Department of Computer Science, University of Delhi 🏛. I'm a Quick Learner and a Technology Enthusiast 💡. Beside's programming, I really enjoy playing sports 🏈 and traveling ⛰️.
 
@@ -26,13 +26,12 @@ Hi, I'm Vasu Sehgal, a Graphic Designer | A YouTuber | Front-End WebDeveloper | 
   
 **All about I, Me and MYSELF !:**
 
-- 👨🏽‍💻 I’m currently working with Node.js, React, Php, Javascript, etc 🛠;
+- 👨🏽‍💻 I’m currently working with Node.js, React, Php, Javascript 🛠;
 - 🌱 I’m currently learning Front-End Web Development and Designing 🚀; 
 - 👯 I’m looking to collaborate on Web-Development Projects (https://github.com/The-Geek-Monk) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help 😎;
 - ⚡️ Fun-Fact: I am an Actor 🎭 and a Dancer 💃 who can Code 💻.
-- 📫 How to reach me: vasusehgal.mca19.du@gmail.com;
+- 📫 How to reach me: vasusehgal.mca19.du@gmail.com 📧;
 
 **Languages and Tools:**  
 
@@ -43,6 +42,9 @@ Hi, I'm Vasu Sehgal, a Graphic Designer | A YouTuber | Front-End WebDeveloper | 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="<img src="https://img.icons8.com/color/48/000000/bootstrap.png"></code>
+<code><img height="20" src="<img src="https://img.icons8.com/dusk/64/000000/php.png"></code>
+
 
 
 
